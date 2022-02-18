@@ -1,0 +1,1 @@
+unsigned int diffval (unsigned char, unsigned char);
